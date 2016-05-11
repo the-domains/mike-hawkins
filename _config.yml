@@ -1,14 +1,29 @@
+name: Mike Hawkins
+favicon: null
 layout_spectrum: 0.3378542
+typography_spectrum: 0.08803625
+title: Mike Hawkins
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5212713
-  lightness: 0.8100358
-  brandStrength: 1
   brandColors:
     - '#2A486E'
     - '#3696AF'
     - '#010204'
     - '#540017'
     - '#CC0146'
+  brandStrength: 1
+  lightness: 0.8100358
+  saturation: 0.5212713
   rhythmicContrast: 0.9410251
-typography_spectrum: 0.08803625
-name: Mike Hawkins
+purpose: []
